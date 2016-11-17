@@ -28,7 +28,6 @@ public class ProccessFileAdaptor {
 	int count = 0;
 	// public static String FILE_NAME =
 	// "/Users/conradmarquesperes/Documents/workspace/improving/clients.csv";
-	
 
 	public static void main(String[] args) throws Exception {
 		proccessFile(null, null);
